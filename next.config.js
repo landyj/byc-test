@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: '/byc-test',
+  output: 'export'
 };
 
 module.exports = nextConfig;
